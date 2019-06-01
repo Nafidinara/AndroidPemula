@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alfara</string>
+    <string name="hello">Hallo! My name is Alfara </string>
+    <string name="length">Panjang</string>a
+    <string name="wide">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="count">Hitung</string>
+    <string name="result">Hasil</string>
+</resources>
